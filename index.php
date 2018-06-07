@@ -14,6 +14,6 @@
 
 	\Framework\core::run();
 	
-	// \Common\config\config::index();
+	\Common\config\config::index();
 
  ?>
